@@ -12,14 +12,14 @@ This portion of the final exam has 5 tasks. They are somewhat independent, so yo
 
 Your grade on this portion of the final will depend on how many tasks you can sufficiently complete:
 
-| # tasks sufficiently completed | mark | range |
-| :----------------------------: | ---- | ----- |
-|               0                | F    | 0     |
-|               1                | F+   | 25-49 |
-|               2                | D+   | 55-59 |
-|               3                | C    | 63-66 |
-|               4                | B    | 73-76 |
-|               5                | A    | 85-94 |
+| # tasks sufficiently completed | mark | range  |
+| :----------------------------: | ---- | ------ |
+|               0                | F    | 0      |
+|               1                | F+   | 25-49  |
+|               2                | D+   | 55-59  |
+|               3                | C+   | 67-69  |
+|               4                | A-   | 80-84  |
+|               5                | A+   | 95-100 |
 
 I say "sufficiently" complete, because if you're pretty close to completion (based on my judgement), I'll squint and say "good enough under pressure".
 
